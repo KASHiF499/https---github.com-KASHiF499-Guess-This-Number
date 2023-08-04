@@ -76,6 +76,6 @@ document.querySelector(".guess").addEventListener("click", (x) => {
     document.querySelector(".message").textContent = "Let's Guess...😋";
     document.querySelector(".message").style.color = "#000";
     document.querySelector("body").style.background = "whitesmoke";
-    document.querySelector(".game").style.background = "#602376";
+    document.querySelector(".game").style.background = "#673379";
   });
 });
